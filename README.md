@@ -101,7 +101,7 @@ def postorder(self, root):
 -	[x] https://leetcode-cn.com/problems/binary-tree-preorder-traversal/ [144]
 -	[x] https://leetcode-cn.com/problems/n-ary-tree-postorder-traversal/ [590]
 -	[x] https://leetcode-cn.com/problems/n-ary-tree-preorder-traversal/ [589]
--	https://leetcode-cn.com/problems/n-ary-tree-level-order-traversal/ [429]
+-	[x] https://leetcode-cn.com/problems/n-ary-tree-level-order-traversal/ [429]
 
 # 递归Recursion（泛型递归、树的递归）
 ## 思维要点
