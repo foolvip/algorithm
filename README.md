@@ -367,3 +367,6 @@ const divide_conquer = (problem, params) => {
 - https://leetcode-cn.com/problems/coin-change-2/
 注意：先消化前面的实战题目，高级 DP 的方法和题解会在课程后面解锁。 
 
+# 学习博客
+- https://github.com/axing521/js-algo
+
