@@ -10,6 +10,9 @@
 **思路**
 解题过程
 
+
+
+
 # 解题方法
 递归、迭代、单调栈、动态规划、快慢指针
 # 数组、链表、跳表
@@ -104,79 +107,6 @@ def postorder(self, root):
 -	[x] https://leetcode-cn.com/problems/n-ary-tree-level-order-traversal/ [429]
 
 # 递归Recursion（泛型递归、树的递归）
-## 思维要点
-1. 不要人肉进行递归
-2. 找到最近最简方法，将其拆解成可重复解决的问题（找最近重复子问题）
-3. 数学归纳法思维
-## 递归代码模版
-```python
-def recursion(level, param1, param2, ...): 
-    # recursion terminator 
-    if level > MAX_LEVEL: 
-	   process_result 
-	   return 
-    # process logic in current level 
-    process(level, data...) 
-    # drill down 
-    self.recursion(level + 1, p1, ...) 
-    # reverse the current level status if needed
-```
-
-```Java
-public void recur(int level, int param) { 
-
-
-  // terminator 
-  if (level > MAX_LEVEL) { 
-    // process result 
-    return; 
-  }
-
-
-  // process current logic 
-  process(level, param); 
-
-
-  // drill down 
-  recur( level: level + 1, newParam); 
-
-
-  // restore current status 
-}
-```
-
-```C++ / C
-void recursion(int level, int param) { 
-  // recursion terminator
-  if (level > MAX_LEVEL) { 
-    // process result 
-    return ; 
-  }
-
-  // process current logic 
-  process(level, param);
-
-  // drill down 
-  recursion(level + 1, param);
-
-  // reverse the current level status if needed
-}
-```
-
-```js
-const recursion = (level, params) =>{
-   // recursion terminator
-   if(level > MAX_LEVEL){
-     process_result
-     return 
-   }
-   // process current level
-   process(level, params)
-   //drill down
-   recursion(level+1, params)
-   //clean current level status if needed  
-}
-```
 ## 实战题目
 - [x] https://leetcode-cn.com/problems/climbing-stairs/ [70]
 - https://leetcode-cn.com/problems/generate-parentheses/ [22]
@@ -187,7 +117,6 @@ const recursion = (level, params) =>{
 - https://leetcode-cn.com/problems/serialize-and-deserialize-binary-tree/ [297]
 
 ## [如何优雅地计算斐波那契数列](https://time.geekbang.org/dailylesson/detail/100028406)
-
 ## 课后作业
 - https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-tree/
 - https://leetcode-cn.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal
@@ -198,101 +127,7 @@ const recursion = (level, params) =>{
 # 分治、回溯
 - [牛顿迭代法原理](http://www.matrix67.com/blog/archives/361)
 - [牛顿迭代法代码](http://www.voidcn.com/article/p-eudisdmk-zm.html)
-## 分治代码模版
-```python
-def divide_conquer(problem, param1, param2, ...): 
-  # recursion terminator 
-  if problem is None: 
-	print_result 
-	return 
-  # prepare data 
-  data = prepare_data(problem) 
-  subproblems = split_problem(problem, data) 
-  # conquer subproblems 
-  subresult1 = self.divide_conquer(subproblems[0], p1, ...) 
-  subresult2 = self.divide_conquer(subproblems[1], p1, ...) 
-  subresult3 = self.divide_conquer(subproblems[2], p1, ...) 
-  …
-  # process and generate the final result 
-  result = process_result(subresult1, subresult2, subresult3, …)
-	
-  # revert the current level states
-```
 
-```Java
-private static int divide_conquer(Problem problem, ) {
-  
-  if (problem == NULL) {
-    int res = process_last_result();
-    return res;     
-  }
-  subProblems = split_problem(problem)
-  
-  res0 = divide_conquer(subProblems[0])
-  res1 = divide_conquer(subProblems[1])
-  
-  result = process_result(res0, res1);
-  
-  return result;
-}
-```
-
-```C++ / C
-int divide_conquer(Problem *problem, int params) {
-  // recursion terminator
-  if (problem == nullptr) {
-    process_result
-    return return_result;
-  } 
-
-  // process current problem
-  subproblems = split_problem(problem, data)
-  subresult1 = divide_conquer(subproblem[0], p1)
-  subresult2 = divide_conquer(subproblem[1], p1)
-  subresult3 = divide_conquer(subproblem[2], p1)
-  ...
-
-  // merge
-  result = process_result(subresult1, subresult2, subresult3)
-  // revert the current level status
- 
-  return 0;
-}
-```
-
-```js
-const divide_conquer = (problem, params) => {
-
-  // recursion terminator
-
-  if (problem == null) {
-
-    process_result
-
-    return
-
-  } 
-
-  // process current problem
-
-  subproblems = split_problem(problem, data)
-
-  subresult1 = divide_conquer(subproblem[0], p1)
-
-  subresult2 = divide_conquer(subproblem[1], p1)
-
-  subresult3 = divide_conquer(subproblem[2], p1)
-
-  ...
-
-  // merge
-
-  result = process_result(subresult1, subresult2, subresult3)
-
-  // revert the current level status
-
-}
-```
 ## 预习题目
 - https://leetcode-cn.com/problems/powx-n/ [50]
 - https://leetcode-cn.com/problems/subsets/ [28]
@@ -366,6 +201,13 @@ const divide_conquer = (problem, params) => {
 - https://leetcode-cn.com/problems/coin-change/
 - https://leetcode-cn.com/problems/coin-change-2/
 注意：先消化前面的实战题目，高级 DP 的方法和题解会在课程后面解锁。 
+
+# 位操作
+- 338. 比特位计数
+- 231. 2 的幂
+- 136. 只出现一次的数字
+- 191. 位1的个数
+- 268. 丢失的数字
 
 # 学习博客
 - https://github.com/axing521/js-algo
