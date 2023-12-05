@@ -1,22 +1,12 @@
-# 格式
-题目描述
-### 题目链接
-链接
-### 示例
-示例
-### 题解
-链接
-#### 题解方法
-**思路**
-解题过程
-
-
-
 
 # 解题方法
+
 递归、迭代、单调栈、动态规划、快慢指针
+
 # 数组、链表、跳表
+
 ## 基本特性
+
 - Java源码分析（ArrayList）[http://developer.classpath.org/doc/java/util/ArrayList-source.html]
 - Linked List 的标准实现代码[https://www.geeksforgeeks.org/implementing-a-linked-list-in-java-using-class/]
 - Linked List 示例代码[http://www.cs.cmu.edu/~adamchik/15-121/lectures/Linked%20Lists/code/LinkedList.java]
@@ -25,6 +15,7 @@
 - Redis - Skip List：跳跃表[https://redisbook.readthedocs.io/en/latest/internal-datastruct/skiplist.html]、为啥 Redis 使用跳表（Skip List）而不是使用 Red-Black？[https://www.zhihu.com/question/20202931]
 
 ## 实战题目
+
 - [x] 两数之和题目： https://leetcode-cn.com/problems/two-sum/ [42]
 ### Array 实战题目
 - [x] https://leetcode-cn.com/problems/container-with-most-water/ [11]
@@ -47,6 +38,7 @@
 
 
 # 栈、队列、优先队列、双端队列
+
 - [x] (Java的PriorityQueue)[https://docs.oracle.com/javase/10/docs/api/java/util/PriorityQueue.html]    
 - [x] (Java的Stack源码)[http://developer.classpath.org/doc/java/util/Stack-source.html]   
 - [x] (Java的Queue源码)[http://fuseyism.com/classpath/doc/java/util/Queue-source.html]   
@@ -63,23 +55,28 @@
 -	[x] https://leetcode.com/problems/design-circular-deque [641]
 -	[x] https://leetcode.com/problems/trapping-rain-water/ [42]
 
-
 # 哈希表、映射、集合
+
 ## 基本特性
 - [x] Java Set 文档[https://docs.oracle.com/en/java/javase/12/docs/api/java.base/java/util/Set.html]
 - [x] Java Map 文档[https://docs.oracle.com/en/java/javase/12/docs/api/java.base/java/util/Map.html]
 
 ## 实战题目
+
 - [x] https://leetcode-cn.com/problems/valid-anagram/description/ [242]
 - [x] https://leetcode-cn.com/problems/group-anagrams/ [49]
 - [x] https://leetcode-cn.com/problems/two-sum/description/ [1]
 
 ## 精选代码收藏
+
 - [x] https://shimo.im/docs/R6g9WJV89QkHrDhr/read
 
 # 树、二叉树、二叉搜索树
+
 树和图的区别：图可以形成环
+
 ### 通用公式
+
 ```py
 def preorder(self, root):
   if root:
@@ -99,7 +96,9 @@ def postorder(self, root):
     self.postorder(root.right)
     self.traverse_path.append(root.val)
 ```
+
 [二叉搜索树 Demo](https://visualgo.net/zh/bst)  
+
 -	[x] https://leetcode-cn.com/problems/binary-tree-inorder-traversal/ [94]
 -	[x] https://leetcode-cn.com/problems/binary-tree-preorder-traversal/ [144]
 -	[x] https://leetcode-cn.com/problems/n-ary-tree-postorder-traversal/ [590]

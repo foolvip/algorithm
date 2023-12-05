@@ -1,0 +1,2 @@
+- [掘金排序理解](https://juejin.cn/post/6844903444365443080#heading-24)
+- leetcode 912题目
