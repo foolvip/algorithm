@@ -3,23 +3,7 @@
 
 ![刷穿LeetCode.png](https://cdn.nlark.com/yuque/0/2022/png/1500604/1647684251333-2f30743e-4823-47be-b76d-eff466c9411f.png#clientId=u47395fa5-f753-4&crop=0&crop=0&crop=1&crop=1&from=ui&height=9836&id=u1c42d067&margin=%5Bobject%20Object%5D&name=%E5%88%B7%E7%A9%BFLeetCode.png&originHeight=14242&originWidth=2896&originalType=binary&ratio=1&rotation=0&showTitle=false&size=5864645&status=done&style=shadow&taskId=ufd3bb380-31b0-4ee7-a0e1-36289169c4d&title=&width=2000)
 
-## 栈
 
-- [ ] [20.有效的括号](https://leetcode-cn.com/problems/valid-parentheses)
-- [ ] [71.简化路径](https://leetcode-cn.com/problems/simplify-path)
-- [ ] [84.柱状图中最大的矩形](https://leetcode-cn.com/problems/largest-rectangle-in-histogram)
-- [ ] [85.最大矩形](https://leetcode-cn.com/problems/maximal-rectangle)
-- [ ] [155.最小栈](https://leetcode-cn.com/problems/min-stack)
-- [ ] [224.基本计算器](https://leetcode-cn.com/problems/basic-calculator)
-- [ ] [227.基本计算器 II](https://leetcode-cn.com/problems/basic-calculator-ii)
-- [ ] [394.字符串解码](https://leetcode-cn.com/problems/decode-string)
-- [ ] [402.移掉 K 位数字](https://leetcode-cn.com/problems/remove-k-digits)
-- [ ] [503.下一个更大元素 II](https://leetcode-cn.com/problems/next-greater-element-ii)
-- [ ] [739.每日温度](https://leetcode-cn.com/problems/daily-temperatures)
-- [ ] [1047.删除字符串中的所有相邻重复项](https://leetcode-cn.com/problems/remove-all-adjacent-duplicates-in-string)
-- [ ] [剑指 Offer 06.从尾到头打印链表](https://leetcode-cn.com/problems/cong-wei-dao-tou-da-yin-lian-biao-lcof/)
-- [ ] [剑指 Offer 30.包含min函数的栈](https://leetcode-cn.com/problems/bao-han-minhan-shu-de-zhan-lcof/)
-- [ ] [剑指 Offer 31.栈的压入、弹出序列](https://leetcode-cn.com/problems/zhan-de-ya-ru-dan-chu-xu-lie-lcof/)
 
 ## 队列
 
@@ -242,6 +226,8 @@
 - [ ] [剑指 Offer 11.旋转数组的最小数字](https://leetcode-cn.com/problems/xuan-zhuan-shu-zu-de-zui-xiao-shu-zi-lcof/)
 - [ ] [剑指 Offer 53 - I.在排序数组中查找数字 I](https://leetcode-cn.com/problems/zai-pai-xu-shu-zu-zhong-cha-zhao-shu-zi-lcof/)
 - [ ] [剑指 Offer 53 - II.0～n-1中缺失的数字](https://leetcode-cn.com/problems/que-shi-de-shu-zi-lcof/)
+
+
 ## 双指针
 
 - [ ] [3.无重复字符的最长子串](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters)
