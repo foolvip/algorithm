@@ -106,6 +106,7 @@ const recursion = (level, params) =>{
 ```
 
 # 分治
+
 ## 分治代码模版
 ```python
 def divide_conquer(problem, param1, param2, ...): 
