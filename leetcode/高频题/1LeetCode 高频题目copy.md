@@ -4,20 +4,6 @@
 ![刷穿LeetCode.png](https://cdn.nlark.com/yuque/0/2022/png/1500604/1647684251333-2f30743e-4823-47be-b76d-eff466c9411f.png#clientId=u47395fa5-f753-4&crop=0&crop=0&crop=1&crop=1&from=ui&height=9836&id=u1c42d067&margin=%5Bobject%20Object%5D&name=%E5%88%B7%E7%A9%BFLeetCode.png&originHeight=14242&originWidth=2896&originalType=binary&ratio=1&rotation=0&showTitle=false&size=5864645&status=done&style=shadow&taskId=ufd3bb380-31b0-4ee7-a0e1-36289169c4d&title=&width=2000)
 
 
-
-## 队列
-
-- [ ] [225.用队列实现栈](https://leetcode-cn.com/problems/implement-stack-using-queues)
-- [ ] [232.用栈实现队列](https://leetcode-cn.com/problems/implement-queue-using-stacks)
-- [ ] [239.滑动窗口最大值](https://leetcode-cn.com/problems/sliding-window-maximum)
-- [ ] [387.字符串中的第一个唯一字符](https://leetcode-cn.com/problems/first-unique-character-in-a-string)
-- [ ] [622.设计循环队列](https://leetcode-cn.com/problems/design-circular-queue)
-- [ ] [862.和至少为 K 的最短子数组](https://leetcode-cn.com/problems/shortest-subarray-with-sum-at-least-k)
-- [ ] [933.最近的请求次数](https://leetcode-cn.com/problems/number-of-recent-calls)
-- [ ] [剑指 Offer 09.用两个栈实现队列](https://leetcode-cn.com/problems/yong-liang-ge-zhan-shi-xian-dui-lie-lcof)
-- [ ] [剑指 Offer 59 - I.滑动窗口的最大值](https://leetcode-cn.com/problems/hua-dong-chuang-kou-de-zui-da-zhi-lcof/)
-- [ ] [剑指 Offer 59 - II.队列的最大值](https://leetcode-cn.com/problems/dui-lie-de-zui-da-zhi-lcof/)
-
 ## 链表
 
 - [ ] [2.两数相加](https://leetcode-cn.com/problems/add-two-numbers)
@@ -84,131 +70,11 @@
 - [ ] [剑指 Offer 20.表示数值的字符串](https://leetcode-cn.com/problems/biao-shi-shu-zhi-de-zi-fu-chuan-lcof/)
 - [ ] [剑指 Offer 67.把字符串转换成整数](https://leetcode-cn.com/problems/ba-zi-fu-chuan-zhuan-huan-cheng-zheng-shu-lcof/)
 
-## 哈希表
-
-- [ ] [49.字母异位词分组](https://leetcode-cn.com/problems/group-anagrams)
-- [ ] [202.快乐数](https://leetcode-cn.com/problems/happy-number)
-- [ ] [204.计数质数](https://leetcode-cn.com/problems/count-primes)
-- [ ] [692.前K个高频单词](https://leetcode-cn.com/problems/top-k-frequent-words)
-- [ ] [706.设计哈希映射](https://leetcode-cn.com/problems/design-hashmap)
-- [ ] [895.最大频率栈](https://leetcode-cn.com/problems/maximum-frequency-stack)
-- [ ] [974.和可被 K 整除的子数组](https://leetcode-cn.com/problems/subarray-sums-divisible-by-k)
-- [ ] [1044.最长重复子串](https://leetcode-cn.com/problems/longest-duplicate-substring)
-- [ ] [剑指 Offer 03.数组中重复的数字](https://leetcode-cn.com/problems/shu-zu-zhong-zhong-fu-de-shu-zi-lcof/)
-- [ ] [剑指 Offer 35.复杂链表的复制](https://leetcode-cn.com/problems/fu-za-lian-biao-de-fu-zhi-lcof/)
-- [ ] [面试题50.第一个只出现一次的字符](https://leetcode-cn.com/problems/di-yi-ge-zhi-chu-xian-yi-ci-de-zi-fu-lcof)
 
 
-## 二叉树
 
-- [ ] [100.相同的树](https://leetcode-cn.com/problems/same-tree)
-- [ ] [108.将有序数组转换为二叉搜索树](https://leetcode-cn.com/problems/convert-sorted-array-to-binary-search-tree)
-- [ ] [116.填充每个节点的下一个右侧节点指针](https://leetcode-cn.com/problems/populating-next-right-pointers-in-each-node)
-- [ ] [117.填充每个节点的下一个右侧节点指针 II](https://leetcode-cn.com/problems/populating-next-right-pointers-in-each-node-ii)
-- [ ] [222.完全二叉树的节点个数](https://leetcode-cn.com/problems/count-complete-tree-nodes)
-- [ ] [226.翻转二叉树](https://leetcode-cn.com/problems/invert-binary-tree)
-- [ ] [236.二叉树的最近公共祖先](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-tree)
-- [ ] [297.二叉树的序列化与反序列化](https://leetcode-cn.com/problems/serialize-and-deserialize-binary-tree)
-- [ ] [404.左叶子之和](https://leetcode-cn.com/problems/sum-of-left-leaves)
-- [ ] [450.删除二叉搜索树中的节点](https://leetcode-cn.com/problems/delete-node-in-a-bst)
-- [ ] [501.二叉搜索树中的众数](https://leetcode-cn.com/problems/find-mode-in-binary-search-tree)
-- [ ] [508.出现次数最多的子树元素和](https://leetcode-cn.com/problems/most-frequent-subtree-sum)
-- [ ] [530.二叉搜索树的最小绝对差](https://leetcode-cn.com/problems/minimum-absolute-difference-in-bst)
-- [ ] [538.把二叉搜索树转换为累加树](https://leetcode-cn.com/problems/convert-bst-to-greater-tree)
-- [ ] [543.二叉树的直径](https://leetcode-cn.com/problems/diameter-of-binary-tree)
-- [ ] [617.合并二叉树](https://leetcode-cn.com/problems/merge-two-binary-trees)
-- [ ] [637.二叉树的层平均值](https://leetcode-cn.com/problems/average-of-levels-in-binary-tree)
-- [ ] [654.最大二叉树](https://leetcode-cn.com/problems/maximum-binary-tree)
-- [ ] [662.二叉树最大宽度](https://leetcode-cn.com/problems/maximum-width-of-binary-tree)
-- [ ] [669.修剪二叉搜索树](https://leetcode-cn.com/problems/trim-a-binary-search-tree)
-- [ ] [700.二叉搜索树中的搜索](https://leetcode-cn.com/problems/search-in-a-binary-search-tree)
-- [ ] [701.二叉搜索树中的插入操作](https://leetcode-cn.com/problems/insert-into-a-binary-search-tree)
-- [ ] [889.根据前序和后序遍历构造二叉树](https://leetcode-cn.com/problems/construct-binary-tree-from-preorder-and-postorder-traversal)
-- [ ] [958.二叉树的完全性检验](https://leetcode-cn.com/problems/check-completeness-of-a-binary-tree)
-- [ ] [剑指 Offer 27.二叉树的镜像](https://leetcode-cn.com/problems/er-cha-shu-de-jing-xiang-lcof)
-- [ ] [剑指 Offer 54.二叉搜索树的第k大节点](https://leetcode-cn.com/problems/er-cha-sou-suo-shu-de-di-kda-jie-dian-lcof/)
-- [ ] [剑指 Offer 68 - I.二叉搜索树的最近公共祖先](https://leetcode-cn.com/problems/er-cha-sou-suo-shu-de-zui-jin-gong-gong-zu-xian-lcof/)
-- [ ] [剑指 Offer 68 - II.二叉树的最近公共祖先](https://leetcode-cn.com/problems/er-cha-shu-de-zui-jin-gong-gong-zu-xian-lcof/)
 
-## 广度优先搜索
 
-- [ ] [102.二叉树的层序遍历](https://leetcode-cn.com/problems/binary-tree-level-order-traversal)
-- [ ] [103.二叉树的锯齿形层序遍历](https://leetcode-cn.com/problems/binary-tree-zigzag-level-order-traversal)
-- [ ] [107.二叉树的层序遍历 II](https://leetcode-cn.com/problems/binary-tree-level-order-traversal-ii)
-- [ ] [111.二叉树的最小深度](https://leetcode-cn.com/problems/minimum-depth-of-binary-tree)
-- [ ] [310.最小高度树](https://leetcode-cn.com/problems/minimum-height-trees)
-- [ ] [513.找树左下角的值](https://leetcode-cn.com/problems/find-bottom-left-tree-value)
-- [ ] [剑指 Offer 32 - II.从上到下打印二叉树 II](https://leetcode-cn.com/problems/cong-shang-dao-xia-da-yin-er-cha-shu-ii-lcof)
-- [ ] [剑指 Offer 32 - III.从上到下打印二叉树 III](https://leetcode-cn.com/problems/cong-shang-dao-xia-da-yin-er-cha-shu-iii-lcof)
-- [ ] [剑指 Offer 37.序列化二叉树](https://leetcode-cn.com/problems/xu-lie-hua-er-cha-shu-lcof/)
-
-## 深度优先搜索
-
-- [ ] [99.恢复二叉搜索树](https://leetcode-cn.com/problems/recover-binary-search-tree)
-- [ ] [101.对称二叉树](https://leetcode-cn.com/problems/symmetric-tree)
-- [ ] [105.从前序与中序遍历序列构造二叉树](https://leetcode-cn.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal)
-- [ ] [106.从中序与后序遍历序列构造二叉树](https://leetcode-cn.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal)
-- [ ] [109.有序链表转换二叉搜索树](https://leetcode-cn.com/problems/convert-sorted-list-to-binary-search-tree)
-- [ ] [114.二叉树展开为链表](https://leetcode-cn.com/problems/flatten-binary-tree-to-linked-list)
-- [ ] [257.二叉树的所有路径](https://leetcode-cn.com/problems/binary-tree-paths)
-- [ ] [301.删除无效的括号](https://leetcode-cn.com/problems/remove-invalid-parentheses)
-- [ ] [剑指 Offer 12.矩阵中的路径](https://leetcode-cn.com/problems/ju-zhen-zhong-de-lu-jing-lcof)
-- [ ] [剑指 Offer 17.打印从1到最大的n位数](https://leetcode-cn.com/problems/da-yin-cong-1dao-zui-da-de-nwei-shu-lcof/)
-- [ ] [剑指 Offer 34.二叉树中和为某一值的路径](https://leetcode-cn.com/problems/er-cha-shu-zhong-he-wei-mou-yi-zhi-de-lu-jing-lcof)
-- [ ] [剑指 Offer 55 - I.二叉树的深度](https://leetcode-cn.com/problems/er-cha-shu-de-shen-du-lcof/)
-- [ ] [剑指 Offer 55 - II.平衡二叉树](https://leetcode-cn.com/problems/ping-heng-er-cha-shu-lcof/)
-
-## 滑动窗口
-
-- [ ] [3.无重复字符的最长子串](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters)
-- [ ] [187.重复的DNA序列](https://leetcode-cn.com/problems/repeated-dna-sequences)
-- [ ] [219.存在重复元素 II](https://leetcode-cn.com/problems/contains-duplicate-ii)
-- [ ] [220.存在重复元素 III](https://leetcode-cn.com/problems/contains-duplicate-iii)
-- [ ] [1004.最大连续1的个数 III](https://leetcode-cn.com/problems/max-consecutive-ones-iii)
-- [ ] [剑指 Offer 48.最长不含重复字符的子字符串](https://leetcode-cn.com/problems/zui-chang-bu-han-zhong-fu-zi-fu-de-zi-zi-fu-chuan-lcof/)
-- [ ] [剑指 Offer 57 - II.和为s的连续正数序列](https://leetcode-cn.com/problems/he-wei-sde-lian-xu-zheng-shu-xu-lie-lcof/)
-- [ ] [剑指 Offer 58 - I.翻转单词顺序](https://leetcode-cn.com/problems/fan-zhuan-dan-ci-shun-xu-lcof/)
-
-## 动态规划
-
-- [ ] [5.最长回文子串](https://leetcode-cn.com/problems/longest-palindromic-substring)
-- [ ] [32.最长有效括号](https://leetcode-cn.com/problems/longest-valid-parentheses)
-- [ ] [62.不同路径](https://leetcode-cn.com/problems/unique-paths)
-- [ ] [63.不同路径 II](https://leetcode-cn.com/problems/unique-paths-ii)
-- [ ] [64.最小路径和](https://leetcode-cn.com/problems/minimum-path-sum)
-- [ ] [70.爬楼梯](https://leetcode-cn.com/problems/climbing-stairs)
-- [ ] [72.编辑距离](https://leetcode-cn.com/problems/edit-distance)
-- [ ] [91.解码方法](https://leetcode-cn.com/problems/decode-ways)
-- [ ] [96.不同的二叉搜索树](https://leetcode-cn.com/problems/unique-binary-search-trees)
-- [ ] [97.交错字符串](https://leetcode-cn.com/problems/interleaving-string)
-- [ ] [120.三角形最小路径和](https://leetcode-cn.com/problems/triangle)
-- [ ] [121.买卖股票的最佳时机](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock)
-- [ ] [122.买卖股票的最佳时机 II](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-ii)
-- [ ] [123.买卖股票的最佳时机 III](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-iii)
-- [ ] [139.单词拆分](https://leetcode-cn.com/problems/word-break)
-- [ ] [152.乘积最大子数组](https://leetcode-cn.com/problems/maximum-product-subarray)
-- [ ] [198.打家劫舍](https://leetcode-cn.com/problems/house-robber)
-- [ ] [213.打家劫舍 II](https://leetcode-cn.com/problems/house-robber-ii)
-- [ ] [221.最大正方形](https://leetcode-cn.com/problems/maximal-square)
-- [ ] [279.完全平方数](https://leetcode-cn.com/problems/perfect-squares)
-- [ ] [300.最长递增子序列](https://leetcode-cn.com/problems/longest-increasing-subsequence)
-- [ ] [322.零钱兑换](https://leetcode-cn.com/problems/coin-change)
-- [ ] [337.打家劫舍 III](https://leetcode-cn.com/problems/house-robber-iii)
-- [ ] [343.整数拆分](https://leetcode-cn.com/problems/integer-break)
-- [ ] [410.分割数组的最大值](https://leetcode-cn.com/problems/split-array-largest-sum)
-- [ ] [494.目标和](https://leetcode-cn.com/problems/target-sum)
-- [ ] [516.最长回文子序列](https://leetcode-cn.com/problems/longest-palindromic-subsequence)
-- [ ] [518.零钱兑换 II](https://leetcode-cn.com/problems/coin-change-2)
-- [ ] [673.最长递增子序列的个数](https://leetcode-cn.com/problems/number-of-longest-increasing-subsequence)
-- [ ] [718.最长重复子数组](https://leetcode-cn.com/problems/maximum-length-of-repeated-subarray)
-- [ ] [1143.最长公共子序列](https://leetcode-cn.com/problems/longest-common-subsequence)
-- [ ] [剑指 Offer 14- I.剪绳子](https://leetcode-cn.com/problems/jian-sheng-zi-lcof/)
-- [ ] [剑指 Offer 14- II.剪绳子 II](https://leetcode-cn.com/problems/jian-sheng-zi-ii-lcof/)
-- [ ] [剑指 Offer 46.把数字翻译成字符串](https://leetcode-cn.com/problems/ba-shu-zi-fan-yi-cheng-zi-fu-chuan-lcof/)
-- [ ] [剑指 Offer 47.礼物的最大价值](https://leetcode-cn.com/problems/li-wu-de-zui-da-jie-zhi-lcof/)
-- [ ] [剑指 Offer 49.丑数](https://leetcode-cn.com/problems/chou-shu-lcof/)
-- [ ] [剑指 Offer 60.n个骰子的点数](https://leetcode-cn.com/problems/nge-tou-zi-de-dian-shu-lcof/)
-- [ ] [剑指 Offer 63.股票的最大利润](https://leetcode-cn.com/problems/gu-piao-de-zui-da-li-run-lcof/)
 
 ## 二分查找
 
@@ -271,6 +137,7 @@
 - [ ] [剑指 Offer 56 - I.数组中数字出现的次数](https://leetcode-cn.com/problems/shu-zu-zhong-shu-zi-chu-xian-de-ci-shu-lcof/)
 - [ ] [剑指 Offer 56 - II.数组中数字出现的次数 II](https://leetcode-cn.com/problems/shu-zu-zhong-shu-zi-chu-xian-de-ci-shu-ii-lcof/)
 - [ ] [剑指 Offer 65.不用加减乘除做加法](https://leetcode-cn.com/problems/bu-yong-jia-jian-cheng-chu-zuo-jia-fa-lcof/)
+
 ## 分治
 
 - [ ] [23.合并K个升序链表](https://leetcode-cn.com/problems/merge-k-sorted-lists)
@@ -301,15 +168,7 @@
 - [ ] [剑指 Offer 13.机器人的运动范围](https://leetcode-cn.com/problems/ji-qi-ren-de-yun-dong-fan-wei-lcof/)
 - [ ] [剑指 Offer 38.字符串的排列](https://leetcode-cn.com/problems/zi-fu-chuan-de-pai-lie-lcof)
 
-## 贪心
 
-- [ ] [44.通配符匹配](https://leetcode-cn.com/problems/wildcard-matching)
-- [ ] [45.跳跃游戏 II](https://leetcode-cn.com/problems/jump-game-ii)
-- [ ] [55.跳跃游戏](https://leetcode-cn.com/problems/jump-game)
-- [ ] [134.加油站](https://leetcode-cn.com/problems/gas-station)
-- [ ] [135.分发糖果](https://leetcode-cn.com/problems/candy)
-- [ ] [316.去除重复字母](https://leetcode-cn.com/problems/remove-duplicate-letters)
-- [ ] [763.划分字母区间](https://leetcode-cn.com/problems/partition-labels)
 ## 排序
 
 - [ ] [148.排序链表](https://leetcode-cn.com/problems/sort-list)
