@@ -4,36 +4,6 @@
 ![刷穿LeetCode.png](https://cdn.nlark.com/yuque/0/2022/png/1500604/1647684251333-2f30743e-4823-47be-b76d-eff466c9411f.png#clientId=u47395fa5-f753-4&crop=0&crop=0&crop=1&crop=1&from=ui&height=9836&id=u1c42d067&margin=%5Bobject%20Object%5D&name=%E5%88%B7%E7%A9%BFLeetCode.png&originHeight=14242&originWidth=2896&originalType=binary&ratio=1&rotation=0&showTitle=false&size=5864645&status=done&style=shadow&taskId=ufd3bb380-31b0-4ee7-a0e1-36289169c4d&title=&width=2000)
 
 
-## 链表
-
-- [ ] [2.两数相加](https://leetcode-cn.com/problems/add-two-numbers)
-- [ ] [25.K 个一组翻转链表](https://leetcode-cn.com/problems/reverse-nodes-in-k-group)
-- [ ] [82.删除排序链表中的重复元素 II](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list-ii)
-- [ ] [83.删除排序链表中的重复元素](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list)
-- [ ] [86.分隔链表](https://leetcode-cn.com/problems/partition-list)
-- [ ] [92.反转链表 II](https://leetcode-cn.com/problems/reverse-linked-list-ii)
-- [ ] [138.复制带随机指针的链表](https://leetcode-cn.com/problems/copy-list-with-random-pointer)
-- [ ] [143.重排链表](https://leetcode-cn.com/problems/reorder-list)
-- [ ] [160.相交链表](https://leetcode-cn.com/problems/intersection-of-two-linked-lists)
-- [ ] [328.奇偶链表](https://leetcode-cn.com/problems/odd-even-linked-list)
-- [ ] [445.两数相加 II](https://leetcode-cn.com/problems/add-two-numbers-ii)
-- [ ] [876.链表的中间结点](https://leetcode-cn.com/problems/middle-of-the-linked-list)
-- [ ] [剑指 Offer 22.链表中倒数第k个节点](https://leetcode-cn.com/problems/lian-biao-zhong-dao-shu-di-kge-jie-dian-lcof)
-- [ ] [剑指 Offer 24.反转链表](https://leetcode-cn.com/problems/fan-zhuan-lian-biao-lcof)
-- [ ] [剑指 Offer 52.两个链表的第一个公共节点](https://leetcode-cn.com/problems/liang-ge-lian-biao-de-di-yi-ge-gong-gong-jie-dian-lcof/)
-
-## 数组
-
-- [ ] [1.两数之和](https://leetcode-cn.com/problems/two-sum)
-- [ ] [31.下一个排列](https://leetcode-cn.com/problems/next-permutation)
-- [ ] [33.搜索旋转排序数组](https://leetcode-cn.com/problems/search-in-rotated-sorted-array)
-- [ ] [41.缺失的第一个正数](https://leetcode-cn.com/problems/first-missing-positive)
-- [ ] [56.合并区间](https://leetcode-cn.com/problems/merge-intervals)
-- [ ] [162.寻找峰值](https://leetcode-cn.com/problems/find-peak-element)
-- [ ] [189.轮转数组](https://leetcode-cn.com/problems/rotate-array)
-- [ ] [560.和为 K 的子数组](https://leetcode-cn.com/problems/subarray-sum-equals-k)
-- [ ] [695.岛屿的最大面积](https://leetcode-cn.com/problems/max-area-of-island)
-- [ ] [剑指 Offer 66.构建乘积数组](https://leetcode-cn.com/problems/gou-jian-cheng-ji-shu-zu-lcof/)
 
 ## 矩阵
 
@@ -49,26 +19,6 @@
 - [ ] [剑指 Offer 04.二维数组中的查找](https://leetcode-cn.com/problems/er-wei-shu-zu-zhong-de-cha-zhao-lcof/)
 - [ ] [剑指 Offer 29.顺时针打印矩阵](https://leetcode-cn.com/problems/shun-shi-zhen-da-yin-ju-zhen-lcof/)
 
-## 字符串
-
-- [ ] [6.Z 字形变换](https://leetcode-cn.com/problems/zigzag-conversion)
-- [ ] [12.整数转罗马数字](https://leetcode-cn.com/problems/integer-to-roman)
-- [ ] [14.最长公共前缀](https://leetcode-cn.com/problems/longest-common-prefix)
-- [ ] [28.实现 strStr()](https://leetcode-cn.com/problems/implement-strstr)
-- [ ] [58.最后一个单词的长度](https://leetcode-cn.com/problems/length-of-last-word)
-- [ ] [115.不同的子序列](https://leetcode-cn.com/problems/distinct-subsequences)
-- [ ] [151.颠倒字符串中的单词](https://leetcode-cn.com/problems/reverse-words-in-a-string)
-- [ ] [344.反转字符串](https://leetcode-cn.com/problems/reverse-string)
-- [ ] [443.压缩字符串](https://leetcode-cn.com/problems/string-compression)
-- [ ] [459.重复的子字符串](https://leetcode-cn.com/problems/repeated-substring-pattern)
-- [ ] [556.下一个更大元素 III](https://leetcode-cn.com/problems/next-greater-element-iii)
-- [ ] [557.反转字符串中的单词 III](https://leetcode-cn.com/problems/reverse-words-in-a-string-iii)
-- [ ] [647.回文子串](https://leetcode-cn.com/problems/palindromic-substrings)
-- [ ] [678.有效的括号字符串](https://leetcode-cn.com/problems/valid-parenthesis-string)
-- [ ] [680.验证回文字符串 Ⅱ](https://leetcode-cn.com/problems/valid-palindrome-ii)
-- [ ] [剑指 Offer 05.替换空格](https://leetcode-cn.com/problems/ti-huan-kong-ge-lcof/)
-- [ ] [剑指 Offer 20.表示数值的字符串](https://leetcode-cn.com/problems/biao-shi-shu-zhi-de-zi-fu-chuan-lcof/)
-- [ ] [剑指 Offer 67.把字符串转换成整数](https://leetcode-cn.com/problems/ba-zi-fu-chuan-zhuan-huan-cheng-zheng-shu-lcof/)
 
 
 
