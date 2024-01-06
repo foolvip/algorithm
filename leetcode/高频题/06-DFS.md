@@ -20,3 +20,10 @@ https://mp.weixin.qq.com/s?__biz=MzA5ODk3ODA4OQ==&mid=2648167208&idx=1&sn=d8118c
 - [ ] [剑指 Offer 34.二叉树中和为某一值的路径](https://leetcode-cn.com/problems/er-cha-shu-zhong-he-wei-mou-yi-zhi-de-lu-jing-lcof)
 - [ ] [剑指 Offer 55 - I.二叉树的深度](https://leetcode-cn.com/problems/er-cha-shu-de-shen-du-lcof/)
 - [ ] [剑指 Offer 55 - II.平衡二叉树](https://leetcode-cn.com/problems/ping-heng-er-cha-shu-lcof/)
+
+
+## 树
+
+### 网格类问题的 DFS 遍历方法
+
+200（Easy）, 130（Medium）, 463（Easy）, 695（Medium）, 827（Hard）
