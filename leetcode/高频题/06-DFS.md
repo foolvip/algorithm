@@ -8,7 +8,7 @@
 https://mp.weixin.qq.com/s?__biz=MzA5ODk3ODA4OQ==&mid=2648167208&idx=1&sn=d8118c7c0e0f57ea2bdd8aa4d6ac7ab7&chksm=88aa236ebfddaa78a6183cf6dcf88f82c5ff5efb7f5c55d6844d9104b307862869eb9032bd1f&token=1064083695&lang=zh_CN#rd
 
 - [x] [99.恢复二叉搜索树](https://leetcode-cn.com/problems/recover-binary-search-tree)
-- [ ] [101.对称二叉树](https://leetcode-cn.com/problems/symmetric-tree)
+- [x] [101.对称二叉树](https://leetcode-cn.com/problems/symmetric-tree)
 - [x] [105.从前序与中序遍历序列构造二叉树](https://leetcode-cn.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal)
 - [x] [106.从中序与后序遍历序列构造二叉树](https://leetcode-cn.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal)
 - [ ] [109.有序链表转换二叉搜索树](https://leetcode-cn.com/problems/convert-sorted-list-to-binary-search-tree)
