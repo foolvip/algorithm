@@ -1,3 +1,4 @@
+- https://zxuqian.cn/videos/ds-algo/stack-javascript-implementation/
 
 # 解题方法
 
